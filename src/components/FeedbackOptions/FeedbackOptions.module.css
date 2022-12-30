@@ -1,0 +1,17 @@
+.button {
+    border-radius: 4px;
+    margin-right: 10px; 
+    padding: 5px 20px;
+    margin-right: 0px
+}
+
+.button:hover {
+    transform: scale(1.1); 
+    cursor: pointer; 
+    background-color: rgb(162, 160, 160)
+}
+
+.feedbackOptions {
+    display: flex;
+    justify-content: space-around;
+}
