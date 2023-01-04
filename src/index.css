@@ -7,7 +7,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-   
 }
 
 code {
@@ -27,8 +26,8 @@ code {
   max-width: 300px;
   margin: 20px auto;
   border-radius: 4px;
-  padding-left: 20px; 
+  padding-left: 20px;
   padding-top: 0px;
   padding-right: 20px;
-  box-shadow: 3px 3px 3px grey
+  box-shadow: 3px 3px 3px grey;
 }
